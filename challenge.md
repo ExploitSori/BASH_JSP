@@ -28,5 +28,6 @@
 https://gist.github.com/ihoneymon/652be052a0727ad59601  
 ####디자인  
 http://freefrontend.com/css-menu/  
-
+####MysqlConnector lib  
+http://dev.mysql.com/downloads/connector/j/  
 
